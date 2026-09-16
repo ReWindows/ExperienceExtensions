@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "ExperienceExtensions.dll",
+  "latest": "1774637897-266B70BEF7E44555B621980F13905B74-1",
+  "builds": [
+    {
+      "key": "1774637897-266B70BEF7E44555B621980F13905B74-1",
+      "timestamp": "1774637897",
+      "pdb_guid": "266B70BEF7E44555B621980F13905B74",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/1774637897-266B70BEF7E44555B621980F13905B74-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
